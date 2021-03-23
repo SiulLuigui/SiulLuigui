@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Soy un estudiante de Ingenieria en Sistemas Computacionales tratando de aprender sobre tecnologias 
 <!--
 **SiulLuigui/SiulLuigui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
